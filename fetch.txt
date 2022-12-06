@@ -1,0 +1,3 @@
+https://www.codingdeft.com/posts/react-fetch-data-api/
+
+https://devtrium.com/posts/async-functions-useeffect
